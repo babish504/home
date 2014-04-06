@@ -1,0 +1,4 @@
+Rhinomocks
+==========
+
+RhinoMocks Sample application
